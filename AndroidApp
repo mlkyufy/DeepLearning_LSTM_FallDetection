@@ -1,0 +1,6 @@
+git init
+git add <C:\Users\mlkyu\OneDrive\Desktop\AndroidApp\AndroidApp_FallDetection> 
+git commit -m "Your message about the commit"
+git remote add origin https://github.com/mlkyufy/deep_learning_lstm_fall_detection.git
+git push -u origin master
+git push origin master
